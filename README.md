@@ -1,6 +1,6 @@
 
 
-Presentamos el laboratorio en el cual desarrollamos un despliegue automátizado de WordPress con terraform, con acceso automático a nuestro wordPress.
+Presentamos el laboratorio en el cual desarrollamos un despliegue automátizado de WordPress con terraform, con acceso automático a nuestro wordPress con todo inicializado y automatizando el proceso de configuración.
 
 La arquitectura implementada consta de los siguientes componentes principales:
 
